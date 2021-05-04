@@ -1,3 +1,5 @@
+## Repository containing finished code from John Smilga's React course.
+
 ## Corresponding Projects
 
 #### useState
