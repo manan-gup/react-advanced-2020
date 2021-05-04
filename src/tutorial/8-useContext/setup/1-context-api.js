@@ -29,7 +29,7 @@ const ContextAPI = () => {
   return (
     <PeopleContext.Provider value={{ handleClick }}>
       <div className="container">
-        <h1>Prop Dilling</h1>
+        <h1>UseContext/Context API</h1>
         <form className="form" onSubmit={handleSubmit}>
           <input type="text" value={name} onChange={handleChange} />
           <button type="submit" className="btn">
